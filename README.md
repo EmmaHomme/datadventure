@@ -4,9 +4,10 @@ The best way to learn and improve is by doing what you can first and then buildi
 Little bit of a blank slate at the moment so here are the to dos
 
 1. Post one of our inspired visualizations 
-2. see if there is a way to make an actual checklist
-3. create some pages to act as individual entries for projects. ie navigation I'm guessing
-4. Fill in a project, eg. exploring how to use different chart types or insights into special interests.Maybe recreating visualizations I found interesting
+2. Figure out how to modify the header with a better title (also think of a nice name for this page)
+3. see if there is a way to make an actual checklist
+4. create some pages to act as individual entries for projects. ie navigation I'm guessing
+5. Fill in a project, eg. exploring how to use different chart types or insights into special interests.Maybe recreating visualizations I found interesting
 
 ## Welcome to GitHub Pages
 
